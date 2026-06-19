@@ -68,10 +68,6 @@ pip install streamlit
 streamlit run app.py
 ```
 
-## 📸 Screenshot
-
-Add a screenshot of the chatbot interface here.
-
 ## 👨‍💻 Author
 
 Uma Maheswara Rao Vedurupaka
