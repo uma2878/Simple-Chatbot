@@ -75,3 +75,7 @@ Uma Maheswara Rao Vedurupaka
 ## Screenshot
 
 ![Chatbot Screenshot](screenshot.png)
+
+## Live Demo
+
+https://simple-chatbot-dcfws2mijaspabbxnbz3oj.streamlit.app/
